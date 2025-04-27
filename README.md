@@ -44,8 +44,8 @@
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=default" alt="Christian's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carevalojesus&show_icons=true&theme=default" alt="Christian's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carevalojesus&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 ### ✍️ Últimos artículos & charlas

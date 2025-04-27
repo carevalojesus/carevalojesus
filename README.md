@@ -1,7 +1,3 @@
-# Christian Arévalo Jesús
-
-<img src="https://avatars.githubusercontent.com/u/29221103?v=4" alt="foto de perfil" >
-
 <!-- Reemplaza <username> con tu nombre de usuario real de GitHub -->
 <p align="center">
   <img src="https://github.com/carevalojesus.png" width="150" height="150" alt="Foto de perfil de Christian Arévalo"/>

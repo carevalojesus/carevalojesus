@@ -1,6 +1,6 @@
 <!-- Reemplaza <username> con tu nombre de usuario real de GitHub -->
 <p align="center">
-  <img src="https://github.com/carevalojesus.png" width="150" height="150" alt="Foto de perfil de Christian Arévalo"/>
+  <img src="https://github.com/carevalojesus.png" width="150" height="150" alt="Foto de perfil de Christian Arévalo" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">¡Hola, soy Christian Arévalo! 👋</h1>

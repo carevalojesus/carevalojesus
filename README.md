@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Iquitos-Per%C3%BA%20%F0%9F%87%B5%F0%9F%87%AA-05122A?style=flat-square" alt="Iquitos, Perú" />
   <img src="https://img.shields.io/badge/Doctorando-Gesti%C3%B3n%20y%20Pol%C3%ADticas%20P%C3%BAblicas-05122A?style=flat-square" alt="Doctorando en Gestión y Políticas Públicas" />
   <img src="https://img.shields.io/badge/Full--stack-7%2B%20a%C3%B1os-05122A?style=flat-square" alt="7+ años de experiencia" />
+  <img src="https://img.shields.io/badge/Abierto%20a-trabajo%20remoto-2EA043?style=flat-square" alt="Abierto a oportunidades remotas" />
   <a href="https://orcid.org/0000-0002-3602-8545"><img src="https://img.shields.io/badge/ORCID-0000--0002--3602--8545-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
@@ -20,13 +21,16 @@
 
 ### 📌 Sobre mí
 
-Soy **ingeniero de sistemas e informática** y llevo más de 7 años llevando software a producción en
-contextos donde importa: universidades, colegios profesionales y entidades públicas de la Amazonía peruana.
-Mi trabajo se mueve entre tres frentes que se alimentan entre sí:
+Soy **ingeniero de sistemas e informática con maestría en gestión pública** y desarrollador web
+full‑stack. Llevo más de 7 años poniendo software en producción donde más cuesta hacerlo: universidades,
+colegios profesionales y entidades públicas de la Amazonía peruana. Me mueve **crear soluciones que
+simplifiquen la vida de quien las usa**, y sigo con las ganas intactas de aprender tecnologías nuevas.
 
 - 🏛️ **Ingeniería aplicada al sector público y educativo.** Digitalizo procesos que hoy siguen en papel
   —expedientes, portafolios docentes, procesos electorales, papeletas de comisión— con sistemas que
   respetan la normativa que los rige, no solo el caso feliz.
+- 🎯 **Lidero el proyecto de gestión académica de la UNAP**, combinando el trabajo técnico con la
+  conducción del equipo y la relación con las áreas usuarias.
 - 🧑‍🏫 **Docencia universitaria** a nivel pre y posgrado, con didáctica basada en proyectos: mis alumnos
   entregan software que funciona, no diapositivas.
 - 🚀 **Emprendimiento.** Fundé **DEVCLOUD EIRL**, desde donde desarrollo productos propios y a medida:
@@ -34,6 +38,10 @@ Mi trabajo se mueve entre tres frentes que se alimentan entre sí:
 - 🎓 Ingeniero de formación y **magíster en Gestión Pública**, hoy **doctorando en Gestión y Políticas
   Públicas** (UNAP): la mitad que le da marco a la otra, porque digitalizar el Estado exige entenderlo.
 - 💡 En mis ratos libres exploro IA aplicada a la educación y grabo vídeo con drones en la Amazonía.
+
+> 🌎 **Abierto a oportunidades remotas** como *desarrollador web full‑stack* o *administrador de TI*,
+> en equipos colaborativos donde pueda seguir creciendo y aportando.
+> Escríbeme a [carevalojesus@gmail.com](mailto:carevalojesus@gmail.com).
 
 ### 💼 Trayectoria
 

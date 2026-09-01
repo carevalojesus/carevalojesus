@@ -44,13 +44,13 @@ Mi trabajo se mueve entre tres frentes que se alimentan entre sí:
 | Administrador de Servicio de TI | Escuela de Postgrado — UNAP | nov. 2021 |
 | CEO & Fundador | [DEVCLOUD EIRL](https://devcloud.pe) | dic. 2022 |
 | Instructor — IA y desarrollo de software | SENATI | ago. 2022 |
-| Profesor Auxiliar — Algoritmos y desarrollo de software | UNAP | ene. 2025 |
+| Profesor Auxiliar — Algoritmos y desarrollo de software | Facultad de Ingeniería de Sistemas e Informática — UNAP | ene. 2025 |
 
 **Antes**
 
 | Rol | Organización | Periodo |
 |-----|--------------|---------|
-| Profesor contratado | UNAP | abr. 2019 – dic. 2024 |
+| Profesor contratado | Facultad de Ingeniería de Sistemas e Informática — UNAP | abr. 2019 – dic. 2024 |
 | Administrador de sistemas web | UNAP | ene. 2020 – oct. 2021 |
 | Jefe de la Unidad de Tecnologías de la Información | Municipalidad Distrital de Punchana | may. – jul. 2019 |
 

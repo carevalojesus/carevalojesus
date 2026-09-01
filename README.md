@@ -31,8 +31,8 @@ Mi trabajo se mueve entre tres frentes que se alimentan entre sí:
   entregan software que funciona, no diapositivas.
 - 🚀 **Emprendimiento.** Fundé **DEVCLOUD EIRL**, desde donde desarrollo productos propios y a medida:
   facturación electrónica SUNAT, pasarelas de pago, apps Android y plataformas de gestión académica.
-- 🎓 Actualmente **doctorando en Gestión y Políticas Públicas** (UNAP), la pieza que le da marco a lo
-  anterior: entender el Estado que estoy digitalizando.
+- 🎓 Ingeniero de formación y **magíster en Gestión Pública**, hoy **doctorando en Gestión y Políticas
+  Públicas** (UNAP): la mitad que le da marco a la otra, porque digitalizar el Estado exige entenderlo.
 - 💡 En mis ratos libres exploro IA aplicada a la educación y grabo vídeo con drones en la Amazonía.
 
 ### 💼 Trayectoria
@@ -111,14 +111,22 @@ Mi trabajo se mueve entre tres frentes que se alimentan entre sí:
 
 <sub>🔒 Repositorio privado (proyecto en producción o bajo acuerdo institucional)</sub>
 
-### 🎓 Formación & certificaciones
+### 🎓 Formación
 
-| | Programa | Institución | Periodo |
-|---|----------|-------------|---------|
-| 🎓 | Doctorado en Gestión y Políticas Públicas | Universidad Nacional de la Amazonía Peruana | jul. 2025 – ago. 2027 |
-| 📜 | Diplomado en Gestión de Proyectos Ágiles | Pontificia Universidad Católica del Perú | abr. – sept. 2025 |
-| ☁️ | Senior Certification en Cloud Computing — AWS y Google Cloud | Universidad Privada Peruano Alemana (UPAL) | 2023 |
-| 🧭 | Soft Skills y Habilidades Directivas | Escuela de Posgrado Newman | 2022 |
+| Grado / Programa | Institución | Periodo |
+|------------------|-------------|---------|
+| Doctorado en Gestión y Políticas Públicas | Universidad Nacional de la Amazonía Peruana | jul. 2025 – ago. 2027 |
+| Diplomado en Gestión de Proyectos Ágiles | Pontificia Universidad Católica del Perú | abr. – sept. 2025 |
+| Maestría en Gestión Pública *(egresado)* | Universidad Nacional de la Amazonía Peruana | abr. 2019 – dic. 2020 |
+| **Ingeniero de Sistemas e Informática** | Universidad Nacional de la Amazonía Peruana | mar. 2010 – mar. 2015 |
+
+**Certificaciones**
+
+| Certificación | Institución | Año |
+|---------------|-------------|-----|
+| Senior Certification en Cloud Computing — AWS, Google Cloud | Universidad Privada Peruano Alemana (UPAL) | 2023 |
+| Capacitación en Desarrollo Web con Python — Python, Django | FABRICUM — Pontificia Universidad Católica del Perú | 2023 |
+| Soft Skills y Habilidades Directivas | Escuela de Posgrado Newman | 2022 |
 
 ### 📊 Estadísticas de GitHub
 

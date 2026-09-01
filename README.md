@@ -121,14 +121,15 @@ Mi trabajo se mueve entre tres frentes que se alimentan entre sí:
 | 🧭 | Soft Skills y Habilidades Directivas | Escuela de Posgrado Newman | 2022 |
 
 ### 📊 Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carevalojesus&show_icons=true&theme=default" alt="Christian's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carevalojesus&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/followers/carevalojesus?style=for-the-badge&logo=github&label=Seguidores&labelColor=05122A&color=0A66C2" alt="Seguidores en GitHub" />
+  <img src="https://img.shields.io/github/stars/carevalojesus?style=for-the-badge&logo=github&label=Stars&labelColor=05122A&color=0A66C2" alt="Total de stars" />
 </p>
 
-### ✍️ Últimos artículos & charlas
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=carevalojesus&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es" alt="Racha de contribuciones de Christian Arévalo" />
+</p>
 
 ### 🤝 Conecta conmigo
 
